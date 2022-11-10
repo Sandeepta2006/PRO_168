@@ -1,0 +1,13 @@
+button{
+    width: 150px;
+    background-color: chartreuse;
+}
+
+#button-div{
+    display: flex-end;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    z-index: 1;
+}
